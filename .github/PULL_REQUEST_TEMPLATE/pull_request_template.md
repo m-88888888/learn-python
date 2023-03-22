@@ -1,11 +1,3 @@
----
-name: テンプレート
-about: 基本テンプレート
-title: ''
-labels: ''
-assignees: ''
----
-
 ## 対応チケット - Ticket
 
 ## スクリーンショット - Screenshot
